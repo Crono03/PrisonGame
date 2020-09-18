@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0378b620-3b13-48d4-b856-2517e25a9295",
+            "Value": {
+                "id": "02319c74-dbcb-4336-b4a9-db183a1a543d",
+                "resourcePath": "objects\\daycycle\\daycycle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "05714fb4-6cb4-4699-9c40-c2e43c154fbf",
+            "Value": {
+                "id": "a6a8e7df-9aa1-40b8-a761-e6b7f688c4c6",
+                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0bfe5b9b-fce0-4cff-8047-18e0a34b3d46",
             "Value": {
                 "id": "e45fdb79-9348-4c2e-a23d-6223f0f498b8",
@@ -76,6 +92,14 @@
                 "id": "5faa5812-154e-48b3-bee9-637c12077242",
                 "resourcePath": "objects\\f\\f.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
+            "Value": {
+                "id": "235fcd1d-1108-4eb5-9ac0-04e82192b47d",
+                "resourcePath": "scripts\\merge_number\\merge_number.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -243,6 +267,14 @@
             "Value": {
                 "id": "ec918469-9a83-482a-bf77-340c64bd3bba",
                 "resourcePath": "views\\9d15ec35-8cf7-4067-b9ef-b19a2982df94.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d402d7f-3384-422a-bdc2-774557a68632",
+            "Value": {
+                "id": "52d1b20b-95d4-497d-bccd-b226ec5d7c2b",
+                "resourcePath": "views\\9d402d7f-3384-422a-bdc2-774557a68632.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -450,7 +482,8 @@
     "script_order": [
         "68334cf0-7349-4e33-a72d-82a440f24abe",
         "fec96eb5-6861-460d-99f1-870be8f4575c",
-        "0d04c426-6082-43d0-8554-fbf91e67eb7d"
+        "0d04c426-6082-43d0-8554-fbf91e67eb7d",
+        "17e0d4df-f1b1-4fa2-a312-6e89edd0e219"
     ],
     "tutorial": ""
 }
