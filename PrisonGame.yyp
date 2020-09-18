@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "67425afd-e23a-4dfc-a076-89bf34fee9ee",
+            "Value": {
+                "id": "4059cded-0137-4f26-8e27-993e6402515d",
+                "resourcePath": "sprites\\prova2\\prova2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67ed96d0-4074-4432-96d7-aa0cfab6fe7f",
             "Value": {
                 "id": "7e427f08-f60f-4894-9cb8-068178ff0f61",
