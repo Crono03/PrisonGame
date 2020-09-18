@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2bd832f4-df25-48b7-8195-4f1e0f9b4b69",
+            "Value": {
+                "id": "10a7586b-fd63-4ea5-bd4b-c7b7f4c3e4a8",
+                "resourcePath": "views\\2bd832f4-df25-48b7-8195-4f1e0f9b4b69.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "326d2fe1-22ab-4d43-af09-45891cf178c5",
             "Value": {
                 "id": "d671b29f-f251-4796-91c2-36c6ca297b31",
@@ -244,14 +252,6 @@
                 "id": "37edcf4f-87b2-4ca9-ab70-96e5000c7601",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
-            }
-        },
-        {
-            "Key": "8d767106-93a4-49f6-ae7e-37995660ab83",
-            "Value": {
-                "id": "0c2dba2b-c092-411e-89a5-f21000d32ccf",
-                "resourcePath": "views\\8d767106-93a4-49f6-ae7e-37995660ab83.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -431,22 +431,6 @@
             }
         },
         {
-            "Key": "edb7b167-332b-419c-93ac-23ff24fdbb6b",
-            "Value": {
-                "id": "fa747c4a-8c0d-4182-9b5d-48772be5ca4c",
-                "resourcePath": "views\\edb7b167-332b-419c-93ac-23ff24fdbb6b.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "edf03dfd-697a-43f0-84fd-10b4b3284227",
-            "Value": {
-                "id": "fa3d44d4-2129-4af2-bdf8-43d67abfe895",
-                "resourcePath": "views\\edf03dfd-697a-43f0-84fd-10b4b3284227.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "f0a9f565-d995-49fb-b9f2-e692c5a30bbd",
             "Value": {
                 "id": "e371a50b-fb5f-4d6f-816b-640162ba7fc1",
@@ -468,6 +452,14 @@
                 "id": "b5d940c1-ed75-4763-a00c-ff27bfd3ffd8",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fc3143d4-987f-41dc-872f-e5c62de3e8f2",
+            "Value": {
+                "id": "ca1d357c-e7d0-4441-93ef-b91041ac5232",
+                "resourcePath": "views\\fc3143d4-987f-41dc-872f-e5c62de3e8f2.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
