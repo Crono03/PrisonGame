@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "cefe45a2-bb71-49fb-84bc-62a2c40d6015",
+            "Value": {
+                "id": "4502ee0c-2368-4a6b-a79f-48fa9b292b53",
+                "resourcePath": "sprites\\iddio\\iddio.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2443b30-472e-4713-909f-9fb40a1ac102",
             "Value": {
                 "id": "1d842d43-a4d7-4bb7-92c7-afc40bd5d732",
