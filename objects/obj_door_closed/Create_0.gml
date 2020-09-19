@@ -1,2 +1,2 @@
 image_speed=0
-depth=-y
+depth=99
