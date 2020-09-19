@@ -1,4 +1,4 @@
-disfatta();
+
 if(key_up)
 	y-=spd
 if(key_left)
