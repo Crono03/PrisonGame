@@ -2,7 +2,7 @@
 {
     "name": "rebibbia",
     "id": "0bfe5b9b-fce0-4cff-8047-18e0a34b3d46",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -15,6 +15,7 @@
         "8368c289-25ee-4b45-abab-0818e785ada8",
         "a24607df-7cfb-4394-9680-f9decbcd69c0",
         "a9b02dcd-2966-4ba1-abc8-d1bd5ddaf856",
+
         "aa7da438-b2f5-497d-ba95-364e00fd41ae"
     ],
     "IsDnD": false,
@@ -245,6 +246,7 @@
 {"name": "inst_313E70C8","id": "a24607df-7cfb-4394-9680-f9decbcd69c0","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_313E70C8","objId": "d2443b30-472e-4713-909f-9fb40a1ac102","properties": null,"rotation": 0,"scaleX": 2.25,"scaleY": 0.5,"mvc": "1.1","x": 640,"y": 256},
 {"name": "inst_8C4904D","id": "a9b02dcd-2966-4ba1-abc8-d1bd5ddaf856","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_8C4904D","objId": "96b821a8-8367-4a03-a278-c1d7f861a1b0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 256,"y": 352},
 {"name": "inst_1E8A006E","id": "aa7da438-b2f5-497d-ba95-364e00fd41ae","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1E8A006E","objId": "8b5e2970-efb6-4075-aa6a-38da9a8dc2c5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 416,"y": 384}
+
             ],
             "layers": [
 

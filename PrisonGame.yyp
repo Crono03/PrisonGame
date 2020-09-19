@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "bde9bdac-c68f-4a63-8fc8-857285a76ef3",
+            "Value": {
+                "id": "1d17e2bd-342d-4104-a59a-10702b4a164c",
+                "resourcePath": "scripts\\funzione_che_funziona\\funzione_che_funziona.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bfdba099-a9a1-440a-af03-d488ac19448a",
             "Value": {
                 "id": "03bcee48-9c69-46d9-a761-fbb279213c89",
@@ -527,6 +535,14 @@
             }
         },
         {
+            "Key": "f9cbce2d-8daa-4ed3-8fa6-3c51668164d6",
+            "Value": {
+                "id": "d5753703-7cad-4cf6-be54-1de5719ff7d7",
+                "resourcePath": "scripts\\scr_firstSolidHomemade\\scr_firstSolidHomemade.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fabaf79a-7c9a-44ba-9755-ee2e774f7a75",
             "Value": {
                 "id": "c916859f-b4e6-4b25-8245-6f3bceee9fb8",
@@ -541,6 +557,14 @@
                 "resourcePath": "scripts\\Debug\\Debug.yy",
                 "resourceType": "GMScript"
             }
+        },
+        {
+            "Key": "fff8dc6d-fa3d-434f-b415-52e8eac39eb0",
+            "Value": {
+                "id": "6b89095c-0d1d-4e2d-8e5c-ba2eb192ad89",
+                "resourcePath": "objects\\cassa\\cassa.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
@@ -548,7 +572,9 @@
         "fec96eb5-6861-460d-99f1-870be8f4575c",
         "0d04c426-6082-43d0-8554-fbf91e67eb7d",
         "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
-        "1e42e83a-e8b3-40d1-bcb2-398233fd3556"
+        "1e42e83a-e8b3-40d1-bcb2-398233fd3556",
+        "f9cbce2d-8daa-4ed3-8fa6-3c51668164d6",
+        "bde9bdac-c68f-4a63-8fc8-857285a76ef3"
     ],
     "tutorial": ""
 }
