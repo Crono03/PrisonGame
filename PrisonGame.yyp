@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "9e2138d9-3049-4a66-ba84-9a711df7a5d9",
+            "Value": {
+                "id": "2a582739-19bd-443e-845c-3b8684900613",
+                "resourcePath": "tilesets\\tileset_prison_floor\\tileset_prison_floor.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "133041f8-d30e-4a55-bc21-431e5ebeac2d",
@@ -492,6 +500,14 @@
                 "id": "b5d940c1-ed75-4763-a00c-ff27bfd3ffd8",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fa00cac0-d5db-4e82-ba08-513075d21e4c",
+            "Value": {
+                "id": "eb162508-22fb-4b4f-9117-d751a53871b6",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
