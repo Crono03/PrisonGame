@@ -1,9 +1,29 @@
-tile_collisione=layer_tilemap_get_id("tile_collisione")
-if ((tilemap_get_at_pixel(tile_collisione,bbox_left,bbox_top) !=0) or (tilemap_get_at_pixel(tile_collisione,bbox_left,bbox_bottom)) !=0)	
-	x=xprevious
-if ((tilemap_get_at_pixel(tile_collisione,bbox_right,bbox_top) !=0) or (tilemap_get_at_pixel(tile_collisione,bbox_right,bbox_bottom)) !=0)	
-	x=xprevious
-if((tilemap_get_at_pixel(tile_collisione,bbox_left,bbox_bottom) !=0) or (tilemap_get_at_pixel(tile_collisione,bbox_right,bbox_top)) !=0)
-	y=yprevious
-if((tilemap_get_at_pixel(tile_collisione,bbox_right,bbox_bottom) !=0) or (tilemap_get_at_pixel(tile_collisione,bbox_left,bbox_top)) !=0)
-	y=yprevious
+scr_movement()
+if(hspd >0) 
+	bbox_side=bbox_right;
+else
+	bbox_side=bbox_left;
+	if(tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_top) !=0) || (tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_bottom) !=0)
+	{
+		if(hspd>0) 
+		x=xprevious
+		else
+		x=xprevious
+		hspd=0
+	
+	}
+if(vspd >0) 
+	bbox_side=bbox_bottom;
+else
+	bbox_side=bbox_top;
+	if(tilemap_get_at_pixel(tilemap,bbox_left,bbox_side+vspd) !=0) || (tilemap_get_at_pixel(tilemap,bbox_right,bbox_side+vspd) !=0)
+	{
+		if(vspd>0) 
+		y=yprevious-1.5
+		else
+		y=yprevious
+		vspd=0
+	
+	}
+	
+	

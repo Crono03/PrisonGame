@@ -1,2 +1,2 @@
 scr_Solido()
-scr_collisionPlayer()
+spd=object0.spd
