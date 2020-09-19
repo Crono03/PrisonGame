@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0bfe5b9b-fce0-4cff-8047-18e0a34b3d46",
+            "Value": {
+                "id": "6627cc05-bb2d-4839-b24b-0bd629823e78",
+                "resourcePath": "rooms\\rebibbia\\rebibbia.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0c7a3b66-83b7-46d3-88c6-559768dcb9cd",
             "Value": {
                 "id": "9d6e2bb0-e1a7-4725-a942-ea36def45d82",
