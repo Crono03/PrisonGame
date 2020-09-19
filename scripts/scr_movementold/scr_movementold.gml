@@ -8,8 +8,3 @@ if(key_down)
 if(key_right)
 	x+=spd
 
-if(keyboard_check_pressed(vk_control)) {
-		spd+=2
-}
-if(keyboard_check_released(vk_control))
-	spd-=2
