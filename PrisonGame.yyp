@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
+            "Value": {
+                "id": "9da4eacd-fe1d-46bc-b1f1-86b531f7c549",
+                "resourcePath": "scripts\\scr_caduta\\scr_caduta.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fabaf79a-7c9a-44ba-9755-ee2e774f7a75",
             "Value": {
                 "id": "c916859f-b4e6-4b25-8245-6f3bceee9fb8",
@@ -625,7 +633,8 @@
         "e298e0f7-af79-4e25-b21f-765f96139837",
         "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
-        "a49438bb-78c4-4e50-87da-fa06abf36af2"
+        "a49438bb-78c4-4e50-87da-fa06abf36af2",
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
     ],
     "tutorial": ""
 }
