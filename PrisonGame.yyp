@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "471f2b00-616a-471f-b3ba-391bd8f3cdfb",
+            "Value": {
+                "id": "dfa5931c-5bd8-4270-a1c3-da2b98969142",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "664d2a03-1785-47d1-a2ae-e62705b1167f",
             "Value": {
                 "id": "f1c64a2b-4c8e-4568-80c3-f8195f3b2a50",
@@ -228,6 +236,14 @@
                 "id": "4059cded-0137-4f26-8e27-993e6402515d",
                 "resourcePath": "sprites\\prova2\\prova2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67d38bab-f5ab-41e8-bcd4-b44272dfd359",
+            "Value": {
+                "id": "ae7fe088-de41-47d1-bc38-42a9375d2cae",
+                "resourcePath": "objects\\buco\\buco.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -364,6 +380,14 @@
                 "id": "d83f2678-323d-455e-bb90-bf69c8c50cb2",
                 "resourcePath": "sprites\\lick\\lick.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a49438bb-78c4-4e50-87da-fa06abf36af2",
+            "Value": {
+                "id": "54db2b60-303a-4dba-937a-763dff5fff6e",
+                "resourcePath": "scripts\\scr_Phisica\\scr_Phisica.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -535,6 +559,14 @@
             }
         },
         {
+            "Key": "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
+            "Value": {
+                "id": "0efdf46f-cc11-4c00-b534-dbce4c673d04",
+                "resourcePath": "scripts\\scr_caduta\\scr_caduta.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fabaf79a-7c9a-44ba-9755-ee2e774f7a75",
             "Value": {
                 "id": "c916859f-b4e6-4b25-8245-6f3bceee9fb8",
@@ -565,7 +597,9 @@
         "0d04c426-6082-43d0-8554-fbf91e67eb7d",
         "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
         "1e42e83a-e8b3-40d1-bcb2-398233fd3556",
-        "a2f2305d-0ad8-4129-af10-72222d4cbe47"
+        "a2f2305d-0ad8-4129-af10-72222d4cbe47",
+        "a49438bb-78c4-4e50-87da-fa06abf36af2",
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
     ],
     "tutorial": ""
 }
