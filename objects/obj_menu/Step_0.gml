@@ -1,1 +1,1 @@
-scr_setting()
+/*scr_setting()
