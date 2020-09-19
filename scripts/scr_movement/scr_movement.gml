@@ -1,15 +1,16 @@
-disfatta();
+scr_commands_default()
+
 if(key_up)
-	y-=spd
+    y-=spd
 if(key_left)
-	x-=spd
+    x-=spd
 if(key_down)
-	y+=spd
+    y+=spd
 if(key_right)
-	x+=spd
+    x+=spd
 
 if(keyboard_check_pressed(vk_control)) {
-		spd+=2
+        spd+=2
 }
 if(keyboard_check_released(vk_control))
-	spd-=2
+    spd-=2
