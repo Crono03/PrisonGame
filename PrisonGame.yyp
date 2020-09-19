@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0ca76b96-9ade-4a90-8dc0-bc9de8897091",
+            "Value": {
+                "id": "39297c5c-e592-4ece-8fc2-1339f1140e79",
+                "resourcePath": "sprites\\tileset_rebibbia\\tileset_rebibbia.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d04c426-6082-43d0-8554-fbf91e67eb7d",
             "Value": {
                 "id": "b00ec914-ba00-4c02-affe-f27b2a7e49ad",
@@ -124,6 +132,14 @@
                 "id": "898e064c-c298-4398-aab9-82a6d93268b2",
                 "resourcePath": "views\\1ee8de36-6008-421d-a89b-df4995cdfadd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "286ebc5d-d428-4c6d-8e65-a95432d83fe6",
+            "Value": {
+                "id": "32ca568e-11dd-4cd9-aa55-7bcab217d2c2",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
