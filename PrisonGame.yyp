@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0eff4f9e-97b2-4793-a01e-a3bb7567080d",
+            "Value": {
+                "id": "c708c7f4-3c47-495f-940f-b7b60324b110",
+                "resourcePath": "objects\\obj_TextBox\\obj_TextBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "15472807-6c74-45e3-8a87-86a652b540d0",
             "Value": {
                 "id": "394111e2-f18f-4323-bf09-f5170c8a04d3",
@@ -476,6 +484,14 @@
                 "id": "b5d940c1-ed75-4763-a00c-ff27bfd3ffd8",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fabaf79a-7c9a-44ba-9755-ee2e774f7a75",
+            "Value": {
+                "id": "c916859f-b4e6-4b25-8245-6f3bceee9fb8",
+                "resourcePath": "fonts\\fnt_Testo\\fnt_Testo.yy",
+                "resourceType": "GMFont"
             }
         },
         {
