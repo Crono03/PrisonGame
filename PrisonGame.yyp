@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "471f2b00-616a-471f-b3ba-391bd8f3cdfb",
+            "Value": {
+                "id": "b5128101-e42c-445c-ad2e-f6f3ea9fe87d",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "664d2a03-1785-47d1-a2ae-e62705b1167f",
             "Value": {
                 "id": "f1c64a2b-4c8e-4568-80c3-f8195f3b2a50",
@@ -236,6 +244,14 @@
                 "id": "4059cded-0137-4f26-8e27-993e6402515d",
                 "resourcePath": "sprites\\prova2\\prova2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67d38bab-f5ab-41e8-bcd4-b44272dfd359",
+            "Value": {
+                "id": "6b7eaf33-c2b0-4616-9431-1b52965e87ba",
+                "resourcePath": "objects\\buco\\buco.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +388,14 @@
                 "id": "d83f2678-323d-455e-bb90-bf69c8c50cb2",
                 "resourcePath": "sprites\\lick\\lick.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a49438bb-78c4-4e50-87da-fa06abf36af2",
+            "Value": {
+                "id": "873c8f36-728f-4c15-ac98-6000d7f814b0",
+                "resourcePath": "scripts\\scr_Phisica\\scr_Phisica.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -592,7 +616,8 @@
         "a2f2305d-0ad8-4129-af10-72222d4cbe47",
         "e298e0f7-af79-4e25-b21f-765f96139837",
         "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
-        "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac"
+        "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
+        "a49438bb-78c4-4e50-87da-fa06abf36af2"
     ],
     "tutorial": ""
 }
