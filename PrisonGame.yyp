@@ -247,14 +247,6 @@
             }
         },
         {
-            "Key": "664d2a03-1785-47d1-a2ae-e62705b1167f",
-            "Value": {
-                "id": "f1c64a2b-4c8e-4568-80c3-f8195f3b2a50",
-                "resourcePath": "views\\664d2a03-1785-47d1-a2ae-e62705b1167f.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "66ace012-08dc-4c72-b066-38c5e7b8d9c0",
             "Value": {
                 "id": "4d7cc6d3-ad91-43b3-b321-b1f7a1256b4b",
@@ -348,14 +340,6 @@
                 "id": "37edcf4f-87b2-4ca9-ab70-96e5000c7601",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
-            }
-        },
-        {
-            "Key": "8701a071-a29e-4cc0-bfba-8e306bf0b31f",
-            "Value": {
-                "id": "9d57f9e3-4f5f-4e24-8896-8871dd32b34c",
-                "resourcePath": "views\\8701a071-a29e-4cc0-bfba-8e306bf0b31f.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -559,6 +543,14 @@
             }
         },
         {
+            "Key": "e608c307-ecb6-4ac0-ad4b-d4d3d088910d",
+            "Value": {
+                "id": "693d0724-9360-4688-9e8f-dc21e319c019",
+                "resourcePath": "views\\e608c307-ecb6-4ac0-ad4b-d4d3d088910d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e63440ed-dbf1-4dc9-a46b-851821e91b49",
             "Value": {
                 "id": "cc931473-ec60-479d-bc49-b82c437da520",
@@ -596,6 +588,14 @@
                 "id": "a5798d5f-8f0d-4528-9031-a59b757426b6",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6480578-c9f0-4406-9176-719ead138506",
+            "Value": {
+                "id": "38cd359c-896c-4eb8-a22a-dc8343ab0471",
+                "resourcePath": "views\\f6480578-c9f0-4406-9176-719ead138506.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -652,14 +652,14 @@
         "fec96eb5-6861-460d-99f1-870be8f4575c",
         "0d04c426-6082-43d0-8554-fbf91e67eb7d",
         "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
+        "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "1e42e83a-e8b3-40d1-bcb2-398233fd3556",
+        "78ca0533-9e4d-4edc-9036-8323e9574b57",
+        "a49438bb-78c4-4e50-87da-fa06abf36af2",
         "a2f2305d-0ad8-4129-af10-72222d4cbe47",
         "e298e0f7-af79-4e25-b21f-765f96139837",
-        "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
-        "a49438bb-78c4-4e50-87da-fa06abf36af2",
-        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
-        "78ca0533-9e4d-4edc-9036-8323e9574b57"
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
     ],
     "tutorial": ""
 }
