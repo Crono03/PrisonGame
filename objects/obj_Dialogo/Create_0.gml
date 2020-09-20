@@ -26,11 +26,15 @@ Y_Testo_nome=namebox_y + (namebox_height/2)
 text_max_width= box_width- (2*x_buffer)
 
 
+
+
 portrait_index=8;
+Writing_speed =0;
+Voce=snd_voice1
 
 Pagina=0
 
-Dialogo_Testo[0]="FIFIFIFI"
+Dialogo_Testo[0]="..."
 Dialogo_Testo[1]="LALALALALAAALLAL Afsfsfsdf f dsf ds fds f dsf dsf ds fds fds f dsLLALALALALALAAALLALalalallalalla"
 Dialogo_Nome="Nome"
 
