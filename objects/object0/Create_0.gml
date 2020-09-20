@@ -1,9 +1,7 @@
 ///liccardrosario_
 //movimento
-
-tilemap= layer_tilemap_get_id("tile_collisione")
-hspd=0
-vspd=0
+hspd= 0
+vspd= 0
 spd=1
 movement=true
 gravita=true

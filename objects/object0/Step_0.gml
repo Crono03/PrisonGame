@@ -1,10 +1,25 @@
-scr_movement();
-	
+
 //Collisione con tile
-scr_collisionPlayer()
 if (movement==true)
 	scr_movement();
 	
+	
+	
+	
+	
+	
+	
+///roba malatissima
+scr_Solido()
+movimentooggetti(hspd, vspd)
+
+
+
+
+
+
+
+
 //Collisione con tile
 scr_collisionPlayer()
 

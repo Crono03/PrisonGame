@@ -1,11 +1,13 @@
 scr_movement()
+tilemap= layer_tilemap_get_id("tile_collisione")
 if(hspd >0) 
 	bbox_side=bbox_right;
 else
 	bbox_side=bbox_left;
 	if(tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_top) !=0) || (tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_bottom) !=0)
 	{
-		if(hspd>0) 
+		
+		if(hspd>0)
 		x=xprevious
 		else
 		x=xprevious

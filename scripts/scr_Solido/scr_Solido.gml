@@ -1,9 +1,13 @@
-if (collision_line(x+63,y,x+63,y+63,object0,false,false))
-	x-=spd
-if (collision_line(x,y,x+63,y,object0,false,false))	
-	y+=spd
-if (collision_line(x,y+63,x+63,y+63,object0,false,false))	
-	y-=spd
-if (collision_line(x,y,x,y+63,object0,false,false))	
-	x+=spd
+if (place_meeting(x+hspd/2,y,movibile)){
+	var blocco=instance_place(x+hspd/2,y,movibile)
+	with (blocco) {
+		movimentooggetti(object0.hspd, 0)
+	}
+}
 
+if (place_meeting(x,y+vspd/2,movibile)){
+	var blocco=instance_place(x,y+vspd/2,movibile)
+	with (blocco) {
+		movimentooggetti(0, object0.vspd)
+	}
+}
