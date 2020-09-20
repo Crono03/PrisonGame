@@ -98,7 +98,7 @@
             "Key": "0eff4f9e-97b2-4793-a01e-a3bb7567080d",
             "Value": {
                 "id": "c708c7f4-3c47-495f-940f-b7b60324b110",
-                "resourcePath": "objects\\obj_TextBox_WIP\\obj_TextBox_WIP.yy",
+                "resourcePath": "objects\\obj_TextBox\\obj_TextBox.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "4cdecf8d-57cc-442e-9e70-0a7afd3c8c17",
             "Value": {
                 "id": "3dbff24c-bb10-4587-89a6-02e5385beaea",
-                "resourcePath": "objects\\obj_michele_WIP\\obj_michele_WIP.yy",
+                "resourcePath": "objects\\obj_michele\\obj_michele.yy",
                 "resourceType": "GMObject"
             }
         },

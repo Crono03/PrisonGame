@@ -1,9 +1,0 @@
-scr_commands_default()
-if(key_space){
-	if(Page+1<array_length_1d(text)){
-	Page+=1
-	}
-	else
-	instance_destroy()
-	creator.MyTextbox=noone
-}

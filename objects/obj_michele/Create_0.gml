@@ -1,4 +1,5 @@
 MyTextbox=noone
+MyName="Michele boss del poppin wok"
 MyText[0]="Swingo la paura";
 MyText[1]="Non avere parole";
 MyText[2]="del mio cielo rosso è il colore";

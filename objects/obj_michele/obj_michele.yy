@@ -2,7 +2,7 @@
     "id": "4cdecf8d-57cc-442e-9e70-0a7afd3c8c17",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_michele_WIP",
+    "name": "obj_michele",
     "eventList": [
         {
             "id": "7098b23c-342b-45d0-8b4f-44673494d31a",
@@ -35,7 +35,7 @@
             "m_owner": "4cdecf8d-57cc-442e-9e70-0a7afd3c8c17"
         },
         {
-            "id": "75e54200-3678-403c-9060-e7df8b7644a1",
+            "id": "607d78bf-8cc4-4b9b-bad6-e57698ab54d2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
