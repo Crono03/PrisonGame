@@ -98,7 +98,7 @@
             "Key": "0eff4f9e-97b2-4793-a01e-a3bb7567080d",
             "Value": {
                 "id": "c708c7f4-3c47-495f-940f-b7b60324b110",
-                "resourcePath": "objects\\obj_TextBox\\obj_TextBox.yy",
+                "resourcePath": "objects\\obj_TextBox_WIP\\obj_TextBox_WIP.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -140,6 +140,14 @@
                 "id": "898e064c-c298-4398-aab9-82a6d93268b2",
                 "resourcePath": "views\\1ee8de36-6008-421d-a89b-df4995cdfadd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1f803b12-40ac-4d04-9132-cc16bfd5cd1f",
+            "Value": {
+                "id": "fb202acd-48d0-47f9-aa25-603bbc3fab01",
+                "resourcePath": "sprites\\spr_michele\\spr_michele.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -228,6 +236,14 @@
                 "id": "b5128101-e42c-445c-ad2e-f6f3ea9fe87d",
                 "resourcePath": "sprites\\sprite15\\sprite15.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4cdecf8d-57cc-442e-9e70-0a7afd3c8c17",
+            "Value": {
+                "id": "3dbff24c-bb10-4587-89a6-02e5385beaea",
+                "resourcePath": "objects\\obj_michele_WIP\\obj_michele_WIP.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -340,14 +356,6 @@
                 "id": "9d57f9e3-4f5f-4e24-8896-8871dd32b34c",
                 "resourcePath": "views\\8701a071-a29e-4cc0-bfba-8e306bf0b31f.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8b5e2970-efb6-4075-aa6a-38da9a8dc2c5",
-            "Value": {
-                "id": "ac71d8f2-7d1d-43c3-b35c-f434c37d89db",
-                "resourcePath": "objects\\obj_WIP\\obj_WIP.yy",
-                "resourceType": "GMObject"
             }
         },
         {
