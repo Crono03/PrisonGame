@@ -1,1 +1,0 @@
-draw_text(20,60,"Charcount="+string(Charcount))
