@@ -25,4 +25,18 @@ draw_set_valign(fa_top)
 
 
 //Disegnare il testo
-draw_text_ext_color(X_Testo,Y_Testo,Dialogo_Testo[Pagina],text_height,text_max_width,c,c,c,c,1)
+Lunghezza_stringa=string_length(Dialogo_Testo[Pagina])
+
+if(Writing_speed< Lunghezza_stringa)
+Writing_speed++
+
+if(Writing_speed mod 4==0 )
+	audio_play_sound(Voce,10,false)
+
+var substring = string_copy(Dialogo_Testo[Pagina],1,Writing_speed)
+
+
+
+
+
+draw_text_ext_color(X_Testo,Y_Testo,substring,text_height,text_max_width,c,c,c,c,1)
