@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "78ca0533-9e4d-4edc-9036-8323e9574b57",
+            "Value": {
+                "id": "2237d827-035c-49be-8a09-45062ef24d84",
+                "resourcePath": "scripts\\movimentooggetti\\movimentooggetti.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7c63c21e-c1cf-4174-8dae-79840627e644",
             "Value": {
                 "id": "fb629c91-99f2-4e6a-a9a6-12cabf85c22f",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "cf9ae053-e1a4-4a5e-99c6-08c3fb472b0b",
+            "Value": {
+                "id": "03759c40-c346-48ba-a6a2-4e73a908fb19",
+                "resourcePath": "objects\\movibile\\movibile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d2443b30-472e-4713-909f-9fb40a1ac102",
             "Value": {
                 "id": "1d842d43-a4d7-4bb7-92c7-afc40bd5d732",
@@ -642,7 +658,8 @@
         "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
         "a49438bb-78c4-4e50-87da-fa06abf36af2",
-        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
+        "78ca0533-9e4d-4edc-9036-8323e9574b57"
     ],
     "tutorial": ""
 }
