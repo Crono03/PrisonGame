@@ -1,5 +1,5 @@
 {
-    "id": "29cf8d96-f3a7-4a6f-a1c1-672f03fc94c9",
+    "id": "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "scr_collisionPlayer",
