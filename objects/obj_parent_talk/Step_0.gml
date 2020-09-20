@@ -12,7 +12,9 @@ if(place_meeting(x,y,object0)){
 }
 else{
 	if(MyTextbox !=noone){
+		
 		instance_destroy(MyTextbox)
 		MyTextbox=noone
 	}
 }
+
