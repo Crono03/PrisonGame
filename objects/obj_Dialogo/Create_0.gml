@@ -20,6 +20,10 @@ namebox_y= box_y - namebox_height
 x_buffer=12
 y_buffer=8
 X_Testo=box_x+x_buffer
+//
+
+
+///Creazione del Dialogo
 Y_Testo=box_y+y_buffer
 X_Testo_nome=namebox_x + (namebox_width/2)
 Y_Testo_nome=namebox_y + (namebox_height/2)
