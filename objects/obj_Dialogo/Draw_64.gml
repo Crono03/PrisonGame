@@ -31,7 +31,10 @@ if(Writing_speed< Lunghezza_stringa)
 Writing_speed++
 
 if(Writing_speed mod 4==0 )
-	audio_play_sound(Voce,10,false)
+	if(Writing_speed!=Lunghezza_stringa)
+		audio_play_sound(Voce,10,false)
+	
+
 
 var substring = string_copy(Dialogo_Testo[Pagina],1,Writing_speed)
 
