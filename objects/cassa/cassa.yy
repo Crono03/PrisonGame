@@ -4,11 +4,11 @@
     "mvc": "1.0",
     "name": "cassa",
     "eventList": [
-
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "cf9ae053-e1a4-4a5e-99c6-08c3fb472b0b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

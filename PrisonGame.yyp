@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -52,14 +52,6 @@
                 "id": "a6a8e7df-9aa1-40b8-a761-e6b7f688c4c6",
                 "resourcePath": "sprites\\sprite10\\sprite10.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
-            "Value": {
-                "id": "2ada6840-ba54-4c35-b7d5-f8e334251404",
-                "resourcePath": "scripts\\scr_setting_sgravatamenteWIP\\scr_setting_sgravatamenteWIP.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -279,19 +271,19 @@
             }
         },
         {
-            "Key": "563060c6-ee0e-41fa-ac89-c7412ccacfca",
-            "Value": {
-                "id": "768ef3ce-3711-4f73-b245-410bebe2c9dc",
-                "resourcePath": "sounds\\snd_voice3\\snd_voice3.yy",
-                "resourceType": "GMSound"
-          }
-      },
-      {
             "Key": "51d7aaae-3fdb-4ef9-b25a-3d6d7cb10dd6",
             "Value": {
                 "id": "4f1ef336-6daf-4b3a-a97f-205db10c4ebe",
                 "resourcePath": "objects\\obj_pinzkeberg\\obj_pinzkeberg.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "563060c6-ee0e-41fa-ac89-c7412ccacfca",
+            "Value": {
+                "id": "768ef3ce-3711-4f73-b245-410bebe2c9dc",
+                "resourcePath": "sounds\\snd_voice3\\snd_voice3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -607,18 +599,18 @@
             }
         },
         {
-            "Key": "d81fca2a-d1d5-40ac-9835-cddcb9de9726",
-            "Value": {
-                "id": "7d5beeb8-b6f1-41ce-8359-aeca28a32725",
-                "resourcePath": "sprites\\Spr_FrameProtrait\\Spr_FrameProtrait.yy",
-                "resourceType": "GMSprite"
-          }
-      },
-      {
             "Key": "d7a6c45b-788c-4bda-891f-ab85f1ea03ff",
             "Value": {
                 "id": "dfab62b5-a95c-4ab5-85c2-405e0baaa8f5",
                 "resourcePath": "sprites\\sprite_cassa\\sprite_cassa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d81fca2a-d1d5-40ac-9835-cddcb9de9726",
+            "Value": {
+                "id": "7d5beeb8-b6f1-41ce-8359-aeca28a32725",
+                "resourcePath": "sprites\\Spr_FrameProtrait\\Spr_FrameProtrait.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -780,7 +772,6 @@
         "fec96eb5-6861-460d-99f1-870be8f4575c",
         "0d04c426-6082-43d0-8554-fbf91e67eb7d",
         "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
-        "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "1e42e83a-e8b3-40d1-bcb2-398233fd3556",
         "78ca0533-9e4d-4edc-9036-8323e9574b57",
         "a49438bb-78c4-4e50-87da-fa06abf36af2",
