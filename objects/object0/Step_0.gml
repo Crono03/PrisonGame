@@ -1,8 +1,5 @@
-if (movement==true){
+if (movement==true)
 	scr_movement()
-	scr_Solido()
-	movimentooggetti(hspd, vspd)
-}
 
 
 scr_collisionPlayer()
