@@ -1,8 +1,8 @@
 {
-    "id": "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
+    "id": "4208e593-3c68-4f9a-ae4a-40019bcaab18",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_setting_sgravatamenteWIP",
+    "name": "collisione_pg_object",
     "IsCompatibility": false,
     "IsDnD": false
 }
