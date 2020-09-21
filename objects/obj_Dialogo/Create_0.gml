@@ -34,9 +34,9 @@ Voce=snd_voice1
 
 Pagina=0
 
-Dialogo_Testo[0]="..."
-Dialogo_Testo[1]="LALALALALAAALLAL Afsfsfsdf f dsf ds fds f dsf dsf ds fds fds f dsLLALALALALALAAALLALalalallalalla"
-Dialogo_Nome="Nome"
+Dialogo_Testo[0]=" Non credo che questo greg potrebbe aiutarci "
+Dialogo_Testo[1]="Greg willen Mi fa sentire vecchio"
+Dialogo_Nome="Pippo Piero"
 
 Colore_Testo= c_black
 Colore_Testo_Nome=c_black
