@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-            
+
         ],
         "projectPath": "${base_project}"
     },
@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "4208e593-3c68-4f9a-ae4a-40019bcaab18",
+            "Value": {
+                "id": "64c2599e-15e2-4db3-b987-7a96a67594f4",
+                "resourcePath": "scripts\\collisione_pg_object\\collisione_pg_object.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "420c3569-c316-4d48-89e5-99e48c41ae0d",
             "Value": {
                 "id": "a4b32cfa-7b6a-4450-b91a-f4b6ed99a86e",
@@ -276,6 +284,14 @@
                 "id": "768ef3ce-3711-4f73-b245-410bebe2c9dc",
                 "resourcePath": "sounds\\snd_voice3\\snd_voice3.yy",
                 "resourceType": "GMSound"
+          }
+      },
+      {
+            "Key": "51d7aaae-3fdb-4ef9-b25a-3d6d7cb10dd6",
+            "Value": {
+                "id": "4f1ef336-6daf-4b3a-a97f-205db10c4ebe",
+                "resourcePath": "objects\\obj_pinzkeberg\\obj_pinzkeberg.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -596,6 +612,14 @@
                 "id": "7d5beeb8-b6f1-41ce-8359-aeca28a32725",
                 "resourcePath": "sprites\\Spr_FrameProtrait\\Spr_FrameProtrait.yy",
                 "resourceType": "GMSprite"
+          }
+      },
+      {
+            "Key": "d7a6c45b-788c-4bda-891f-ab85f1ea03ff",
+            "Value": {
+                "id": "dfab62b5-a95c-4ab5-85c2-405e0baaa8f5",
+                "resourcePath": "sprites\\sprite_cassa\\sprite_cassa.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -763,7 +787,8 @@
         "a2f2305d-0ad8-4129-af10-72222d4cbe47",
         "e298e0f7-af79-4e25-b21f-765f96139837",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
-        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
+        "4208e593-3c68-4f9a-ae4a-40019bcaab18"
     ],
     "tutorial": ""
 }

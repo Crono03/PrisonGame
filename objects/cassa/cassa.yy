@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "cassa",
     "eventList": [
-        {
-            "id": "8255b984-ef05-4221-8088-c3601bc1b5ca",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "fff8dc6d-fa3d-434f-b415-52e8eac39eb0"
-        },
-        {
-            "id": "f112c5d4-ebe0-4a82-9bcf-c4839dd588d5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "fff8dc6d-fa3d-434f-b415-52e8eac39eb0"
-        }
+
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -72,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "15472807-6c74-45e3-8a87-86a652b540d0",
+    "spriteId": "d7a6c45b-788c-4bda-891f-ab85f1ea03ff",
     "visible": true
 }

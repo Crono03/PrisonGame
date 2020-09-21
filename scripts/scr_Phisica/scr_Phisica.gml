@@ -1,7 +1,11 @@
-peso=argument0
-if (gravita==true){
-	if (caduta==true){
-		x=buco.x+32
+
+x=other.x
+
+
+if (gravita==true)
+	if (caduta==false)
 		scr_caduta()
+	else {
+		y=other.y
+		caduta=false
 	}
-}
