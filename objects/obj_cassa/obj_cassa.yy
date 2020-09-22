@@ -1,8 +1,8 @@
 {
-    "id": "c5e21c4a-40f3-4619-9362-a49f05a87ee2",
+    "id": "a89441a6-993b-474e-87b7-09f74db77b9a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_pinzkeberg",
+    "name": "obj_cassa",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "15472807-6c74-45e3-8a87-86a652b540d0",
+    "spriteId": "d7a6c45b-788c-4bda-891f-ab85f1ea03ff",
     "visible": true
 }
