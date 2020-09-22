@@ -1,23 +1,23 @@
 {
-    "id": "d867cd57-c3ee-4868-b9af-0916c54270c5",
+    "id": "a1a3c2a2-24cc-4e0d-b020-b1944e82a97d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_darkMicheds",
+    "name": "NPC",
     "eventList": [
         {
-            "id": "dbc049b8-a760-4725-8e60-8b84ad8b8792",
+            "id": "e5dad73f-94f7-426d-b31e-c7e0275091d2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "d867cd57-c3ee-4868-b9af-0916c54270c5"
+            "m_owner": "a1a3c2a2-24cc-4e0d-b020-b1944e82a97d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "339df05e-65d0-46d7-839b-c2b980cfde50",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "dfe07fd7-7697-43ac-885d-b7a22a539a49",
+    "spriteId": "cefe45a2-bb71-49fb-84bc-62a2c40d6015",
     "visible": true
 }

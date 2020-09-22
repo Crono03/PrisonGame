@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0fdaefbe-5574-407f-b5c3-4e1ab34173a5",
+            "Value": {
+                "id": "e0d77e59-8497-4021-beab-f2832801aa9a",
+                "resourcePath": "objects\\NPC_3\\NPC_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "15472807-6c74-45e3-8a87-86a652b540d0",
             "Value": {
                 "id": "394111e2-f18f-4323-bf09-f5170c8a04d3",
@@ -187,6 +195,14 @@
             "Value": {
                 "id": "753ace2c-b996-40d1-89e0-123788b4d9b7",
                 "resourcePath": "objects\\obj_parent_talk\\obj_parent_talk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34b951c5-3a0d-4c53-8376-bde72596c8f0",
+            "Value": {
+                "id": "1fea2eab-8c8d-4e08-953a-89f143d6f72e",
+                "resourcePath": "objects\\NPC_2\\NPC_2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -431,6 +447,14 @@
             }
         },
         {
+            "Key": "a1a3c2a2-24cc-4e0d-b020-b1944e82a97d",
+            "Value": {
+                "id": "216c5d55-675e-445d-817a-d1d4aa5b8443",
+                "resourcePath": "objects\\Par_NPC\\Par_NPC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a1e43453-36e0-43da-aa37-b845d01b8482",
             "Value": {
                 "id": "067e0dd5-9213-4d00-8f99-41633e049605",
@@ -516,6 +540,14 @@
                 "id": "03bcee48-9c69-46d9-a761-fbb279213c89",
                 "resourcePath": "views\\bfdba099-a9a1-440a-af03-d488ac19448a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c54ee94d-391f-43de-9d2b-708eca087d06",
+            "Value": {
+                "id": "92189017-ef0c-4611-8c42-ccc1eef29eb2",
+                "resourcePath": "scripts\\Create_textbox\\Create_textbox.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -741,14 +773,6 @@
                 "resourcePath": "scripts\\Debug\\Debug.yy",
                 "resourceType": "GMScript"
             }
-        },
-        {
-            "Key": "fff8dc6d-fa3d-434f-b415-52e8eac39eb0",
-            "Value": {
-                "id": "d163814c-1f6b-4fa8-97f1-7cb0ae343328",
-                "resourcePath": "objects\\cassa\\cassa.yy",
-                "resourceType": "GMObject"
-            }
         }
     ],
     "script_order": [
@@ -763,7 +787,8 @@
         "a2f2305d-0ad8-4129-af10-72222d4cbe47",
         "e298e0f7-af79-4e25-b21f-765f96139837",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
-        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86"
+        "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
+        "c54ee94d-391f-43de-9d2b-708eca087d06"
     ],
     "tutorial": ""
 }

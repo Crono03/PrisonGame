@@ -7,5 +7,8 @@ if(keyboard_check_pressed(vk_space))
 			Pagina++
 			Writing_speed=0
 		}
-		else
+		else{
+			object0.movement=true
 			instance_destroy()
+		}
+			

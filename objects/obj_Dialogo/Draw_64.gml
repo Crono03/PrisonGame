@@ -1,3 +1,6 @@
+
+
+
 //Diseganre la linea di dialogo
 draw_sprite(box,0,box_x,box_y)
 
