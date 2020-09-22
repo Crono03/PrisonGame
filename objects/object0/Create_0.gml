@@ -2,7 +2,7 @@
 //movimento
 hspd= 0
 vspd= 0
-spd=1
+spd=2
 movement=true
 gravita=true
 caduta=true
