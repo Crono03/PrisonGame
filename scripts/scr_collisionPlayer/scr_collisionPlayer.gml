@@ -1,4 +1,3 @@
-scr_movement()
 tilemap= layer_tilemap_get_id("tile_collisione")
 if(hspd >0) 
 	bbox_side=bbox_right;
