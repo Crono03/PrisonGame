@@ -1,3 +1,4 @@
+
 scr_commands_default();
 
 inputDirection=point_direction(0,0,key_right-key_left,key_down-key_up)

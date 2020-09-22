@@ -1,3 +1,5 @@
+object0.movement=false
+
 box= spr_dialogue_textbox
 frame= Spr_FrameProtrait
 portrait=spr_Protrait
@@ -38,9 +40,8 @@ Voce=snd_voice1
 
 Pagina=0
 
-Dialogo_Testo[0]=" Non credo che questo greg potrebbe aiutarci "
-Dialogo_Testo[1]="Greg willen Mi fa sentire vecchio"
-Dialogo_Nome="Pippo Piero"
+Dialogo_Testo[0]=""
+Dialogo_Nome=""
 
 Colore_Testo= c_black
 Colore_Testo_Nome=c_black
@@ -48,4 +49,7 @@ Font=fnt_Testo
 
 draw_set_font(Font)
 text_height = string_height("M")
+
+event_perform(ev_other,ev_user1)
+
 
