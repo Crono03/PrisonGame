@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
-            "Value": {
-                "id": "2ada6840-ba54-4c35-b7d5-f8e334251404",
-                "resourcePath": "scripts\\scr_setting_sgravatamenteWIP\\scr_setting_sgravatamenteWIP.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "0bfe5b9b-fce0-4cff-8047-18e0a34b3d46",
             "Value": {
                 "id": "6627cc05-bb2d-4839-b24b-0bd629823e78",
@@ -255,6 +247,14 @@
             }
         },
         {
+            "Key": "4208e593-3c68-4f9a-ae4a-40019bcaab18",
+            "Value": {
+                "id": "64c2599e-15e2-4db3-b987-7a96a67594f4",
+                "resourcePath": "scripts\\scr_Solido\\scr_Solido.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "420c3569-c316-4d48-89e5-99e48c41ae0d",
             "Value": {
                 "id": "a4b32cfa-7b6a-4450-b91a-f4b6ed99a86e",
@@ -283,6 +283,14 @@
             "Value": {
                 "id": "3dbff24c-bb10-4587-89a6-02e5385beaea",
                 "resourcePath": "objects\\obj_michele\\obj_michele.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51d7aaae-3fdb-4ef9-b25a-3d6d7cb10dd6",
+            "Value": {
+                "id": "4f1ef336-6daf-4b3a-a97f-205db10c4ebe",
+                "resourcePath": "objects\\obj_pinzkeberg\\obj_pinzkeberg.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -364,14 +372,6 @@
                 "id": "e1821300-7a4c-4f12-b7ce-1de73fdc1f96",
                 "resourcePath": "sprites\\lever\\lever.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "78ca0533-9e4d-4edc-9036-8323e9574b57",
-            "Value": {
-                "id": "2237d827-035c-49be-8a09-45062ef24d84",
-                "resourcePath": "scripts\\movimentooggetti\\movimentooggetti.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -460,14 +460,6 @@
                 "id": "067e0dd5-9213-4d00-8f99-41633e049605",
                 "resourcePath": "views\\a1e43453-36e0-43da-aa37-b845d01b8482.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a2f2305d-0ad8-4129-af10-72222d4cbe47",
-            "Value": {
-                "id": "6d6e90e0-d6d0-4b85-a873-73372e63c21c",
-                "resourcePath": "scripts\\scr_Solido\\scr_Solido.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -620,6 +612,14 @@
                 "id": "5f556594-3418-48ff-b268-d8da1bc56c06",
                 "resourcePath": "views\\d5bddd40-c6e4-4e45-ba80-b3b4c6b17c5c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7a6c45b-788c-4bda-891f-ab85f1ea03ff",
+            "Value": {
+                "id": "dfab62b5-a95c-4ab5-85c2-405e0baaa8f5",
+                "resourcePath": "sprites\\sprite_cassa\\sprite_cassa.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -780,15 +780,13 @@
         "fec96eb5-6861-460d-99f1-870be8f4575c",
         "0d04c426-6082-43d0-8554-fbf91e67eb7d",
         "17e0d4df-f1b1-4fa2-a312-6e89edd0e219",
-        "08a2a4dc-9684-409d-a7ee-f6a153ad4e07",
         "1e42e83a-e8b3-40d1-bcb2-398233fd3556",
-        "78ca0533-9e4d-4edc-9036-8323e9574b57",
         "a49438bb-78c4-4e50-87da-fa06abf36af2",
-        "a2f2305d-0ad8-4129-af10-72222d4cbe47",
         "e298e0f7-af79-4e25-b21f-765f96139837",
         "f6dda9a5-021d-4f8d-8c7d-e937df5e94ac",
         "faa97ea2-70f9-4d83-8727-8e16c7cc0a86",
-        "c54ee94d-391f-43de-9d2b-708eca087d06"
+        "c54ee94d-391f-43de-9d2b-708eca087d06", 
+        "4208e593-3c68-4f9a-ae4a-40019bcaab18",
     ],
     "tutorial": ""
 }
