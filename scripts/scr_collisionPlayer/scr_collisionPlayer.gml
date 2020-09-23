@@ -20,7 +20,7 @@ else
 	if(tilemap_get_at_pixel(tilemap,bbox_left,bbox_side+vspd) !=0) || (tilemap_get_at_pixel(tilemap,bbox_right,bbox_side+vspd) !=0)
 	{
 		if(vspd>0) 
-		y=yprevious+1.5
+		y=yprevious
 		else
 		y=yprevious
 		vspd=0
