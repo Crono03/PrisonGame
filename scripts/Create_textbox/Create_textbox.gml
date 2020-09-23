@@ -1,4 +1,4 @@
-//argomunt Testo
+ //argomunt Testo
 //argument Speakers
 
 var tbox=instance_create_layer(0,0,"Testo",obj_Dialogo)
@@ -15,8 +15,6 @@ with(tbox){
 		Voci[i]=Speakers[i].Voce
 		i++
 	}
-	Dialogo_Nome=Nomi[Pagina]
-	Voce=Voci[Pagina]
-	portrait_index=portraits[Pagina]
+	event_perform(ev_other,ev_user0)
 }
 return tbox
