@@ -2,7 +2,7 @@
 //movimento
 hspd= 0
 vspd= 0
-spd=2
+spd=3
 movement=true
 gravita=true
 caduta=true
@@ -18,3 +18,4 @@ Dialogo_Nome="Giocatore"
 
 
 Raggio_di_dialogo=40
+active_textbox= noone
