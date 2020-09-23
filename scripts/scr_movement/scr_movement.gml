@@ -12,8 +12,8 @@ x+=hspd
 y+=vspd
 
 if(keyboard_check_pressed(vk_control)) {
-	spd+=0.5
+	spd+=1
 }
 if(keyboard_check_released(vk_control))
-	spd-=0.5
+	spd-=1
 	

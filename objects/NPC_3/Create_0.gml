@@ -4,4 +4,6 @@ Dialogo_Nome="Gnoy"
 
 
 Dialogo_Testo[0]="Qasdsd da dire"
-Speakers=[id]
+Dialogo_Testo[1]="aAAA"
+Dialogo_Testo[2]="PILIPO SISISI"
+Speakers=[id,object0,NPC_2]
