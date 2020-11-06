@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "04921623-504a-4885-9a3f-b5812dfcdd8a",
+            "Value": {
+                "id": "c749d818-a09f-438c-86ba-21321877c4ca",
+                "resourcePath": "sounds\\Madebyvettel\\Madebyvettel.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "05714fb4-6cb4-4699-9c40-c2e43c154fbf",
             "Value": {
                 "id": "a6a8e7df-9aa1-40b8-a761-e6b7f688c4c6",
@@ -508,6 +516,14 @@
                 "id": "5885273e-49cc-4d65-b2e0-68c7f03d4a2d",
                 "resourcePath": "objects\\Game\\Game.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b72ea60e-4137-4853-9f7b-b8196dc1dba3",
+            "Value": {
+                "id": "b08bd745-6a33-4444-88df-0e47f51166dc",
+                "resourcePath": "views\\b72ea60e-4137-4853-9f7b-b8196dc1dba3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
